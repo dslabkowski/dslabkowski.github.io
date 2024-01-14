@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "How to create shortcuts to place nodes"
+title:  "Customizing Shortcuts in Blueprints"
 category: Editor tips
 tags:
     - Editor
