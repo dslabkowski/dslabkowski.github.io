@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Customizing Shortcuts in Blueprints"
+excerpt: In this post we'll learn how to create custom shortcuts for placing nodes in blueprints/materials.
 category: Editor tips
 tags:
     - Editor
