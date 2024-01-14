@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How to create shortcuts to place nodes"
 category: Editor tips
 tags:
