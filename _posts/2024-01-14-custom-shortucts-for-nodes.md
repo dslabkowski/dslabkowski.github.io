@@ -24,4 +24,4 @@ For the Print String node, the syntax is as follows:
  +Node=(Class=KismetSystemLibrary:PrintString Key=R Shift=false Ctrl=false Alt=false)
  ```
 
-By following this approach, you can assign keyboard shortcuts to various *engine* functions and events.
+By following this approach, you can assign keyboard shortcuts to various **engine** functions and events.
