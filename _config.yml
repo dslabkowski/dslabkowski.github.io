@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devtricks"
+title                    : "Dawid's Unreal blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "vorixo"
-description              : "Programming and game development blog"
+name                     : "Dawid Slabkowski"
+description              : "Unreal Engine, programming, gamedevelopment"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/site-teaser.png"
+teaser                   : # ""
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" - This appears at the left of devtricks
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -78,9 +78,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "vorixo"
+  username               : "dslabkowski"
 linkedin:
-  username               : "vorixo"
+  username               : 
 facebook:
   username               :
 og_image                 : "/assets/images/site-teaser.png"
@@ -101,34 +101,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alvaro Jover-Alvarez"
-  avatar           : "/assets/images/Meta.jpg"
-  bio              : "Network Programmer @ CI Games"
-  location         : # "Somewhere"
+  name             : "Dawid Slabkowski"
+  avatar           : # "/assets/images/Meta.jpg"
+  bio              : "Unreal Engine Programmer"
+  location         : Poland
   email            :
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/vorixo"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/vorixo"
+      url: "https://twitter.com/dslabkowski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/vorixo"
+      url: "https://github.com/dslabkowski"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/vorixo"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/vorixo"
+      url: "https://twitter.com/dslabkowski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/vorixo"
+      url: "https://github.com/dslabkowski"
 
 
 # Reading Files
